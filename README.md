@@ -3,6 +3,9 @@ This is a place to gain better understanding of the fundamentals of ML. Its aim 
 
 ## Topics to cover next (In no particular order)
 
+### Traditional ML 
+* Decision Trees DONE
+
 ### Statistical Learning Theory
 * Monte Carlo Simulations DONE
   
