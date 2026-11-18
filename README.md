@@ -17,7 +17,7 @@ This is a place to gain better understanding of the fundamentals of ML. Its aim 
 * Boosting vs Bagging
 * Random Forest Algorithm
 * Gradient Boosting
-* XGBoost
+* XGBoost (DONE)
 
 ### Dimensionality Reduction Techniques
 * Principal Component Analysis (PCA)
